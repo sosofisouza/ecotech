@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">EcoTech</string>
+    <string name="header_text">Separamos os EcoPontos mais próximos para você :)</string>
+
+    <string name="point_of_collection">Ponto de Coleta Alphaville</string>
+    <string name="neighborhood">Bairro: Alphaville</string>
+    <string name="view_details">Ver detalhes</string>
+
+    <string name="point_of_collection_2">Ponto de Coleta Vila Cretti </string>
+    <string name="neighborhood_2">Bairro: Vila Cretti </string>
+    <string name="view_details2">Ver detalhes</string>
+
+    <string name="point_of_collection_3">Ponto de Coleta Amador Bueno </string>
+    <string name="neighborhood_3">Bairro: Amador Bueno </string>
+    <string name="view_details3">Ver detalhes</string>
+
+    <string name="point_of_collection_4">Ponto de Coleta Jardim Alvorada </string>
+    <string name="neighborhood_4">Bairro: Jardim Alvorada </string>
+    <string name="view_details4">Ver detalhes</string>
+
+    <string name="point_of_collection_5">Ponto de Coleta Jardim das Flores </string>
+    <string name="neighborhood_5">Bairro: Jardim das Flores </string>
+    <string name="view_details5">Ver detalhes</string>
+
+    <string name="point_of_collection_6">Ponto de Coleta Centro </string>
+    <string name="neighborhood_6">Bairro: Centro </string>
+    <string name="view_details6">Ver detalhes</string>
+
+    <string name="point_of_collection_7">Ponto de Coleta Tamboré </string>
+    <string name="neighborhood_7">Bairro: Tamboré </string>
+    <string name="view_details7">Ver detalhes</string>
+
+    <string name="point_of_collection_8">Ponto de Coleta Aldeia da Serra </string>
+    <string name="neighborhood_8">Bairro: Aldeia da Serra </string>
+    <string name="view_details8">Ver detalhes</string>
+
+    <string name="point_of_collection_9">Ponto de Coleta Jardim Maria Beatriz </string>
+    <string name="neighborhood_9">Bairro: Jardim Maria Beatriz </string>
+    <string name="view_details9">Ver detalhes</string>
+
+    <string name="point_of_collection_10">Ponto de Coleta Vila Nova </string>
+    <string name="neighborhood_10">Bairro: Vila Nova </string>
+    <string name="view_details10">Ver detalhes</string>
+
+
+    <string name="texto3">Nosso aplicativo é especialmente dedicado aos moradores e empresas de Barueri, Carapicuíba, Itapevi,
+        Jandira, Osasco, Pirapora do Bom Jesus e Santana de Parnaíba. Trabalhamos incansavelmente para garantir que você encontre
+        o EcoPonto mais próximo de você, tornando o descarte de resíduos eletrônicos uma tarefa simples e acessível.</string>
+    <string name="texto1">Nosso aplicativo foi criado com um propósito em mente: facilitar a vida dos moradores e empresas
+        da Sub-Região Oeste da Grande São Paulo na hora de descartar seus resíduos eletrônicos de maneira responsável e sustentável.</string>
+    <string name="bem_vindo">Bem-vindo ao App EcoTech!</string>
+    <string name="texto2">Sabemos que a correta destinação de resíduos eletrônicos é essencial para o meio ambiente e para a saúde pública.
+        Por isso, desenvolvemos esta plataforma para conectar os usuários a ecopontos de coleta confiáveis e próximos, onde eles podem descartar
+        seus eletrônicos de forma segura e consciente.</string>
+    <string name="texto4">Com o App EcoTech, você pode localizar facilmente os ecopontos de coleta mais próximos, obter informações sobre os tipos de
+        resíduos aceitos em cada local e até mesmo receber notificações sobre eventos de coleta ou novos pontos de coleta na sua região. Junte-se a nós
+        nessa jornada em prol do meio ambiente e da sustentabilidade.</string>
+    <string name="texto5">Faça sua parte e ajude-nos a criar um futuro mais limpo e saudável para todos.</string>
+    <string name="porque_reciclar">Porque reciclar resíduos eletônicos?</string>
+    <string name="pontos_de_coleta">Pontos de Coleta</string>
+    <string name="escolha_uma_cidade">Escolha uma cidade</string>
+    <string name="importancia_rec">Reciclar resíduos eletrônicos é vital por diversas razões</string>
+    <string name="texto6">Evita a poluição ambiental, já que esses dispositivos contêm substâncias tóxicas.</string>
+    <string name="texto7">Preserva recursos naturais ao reciclar materiais valiosos presentes nos eletrônicos.</string>
+    <string name="texto8"> Reduz a produção de resíduos, contribuindo para a preservação do meio ambiente.</string>
+    <string name="texto9">Permite a recuperação de materiais valiosos que podem ser reutilizados, economizando energia e recursos na fabricação de novos produtos.</string>
+    <string name="texto10">Reciclar resíduos eletrônicos é uma prática essencial para proteger o planeta e promover um futuro sustentável.</string>
+    <string name="grupo_res">Essas informações ajudarão na escolha correta de grupo de resíduos na próxima etapa</string>
+    <string name="texto_rec1">Pequeno porte</string>
+    <string name="texto_rec2">Smartphones, equipamentos de Áudio Portáteis, relógios Digitais, cameras digitais, pilhas e baterias portáteis, mouses, teclados, calculadoras eletrônicas, carregadores.</string>
+    <string name="texto_rec3">Médio porte</string>
+    <string name="texto_rec4">Computadores de Mesa, notebooks, impressoras, multifuncionais, televisores (telas menores que 32 polegadas),videogames, consoles, equipamentos de fax, aparelhos de DVD, blu-ray, câmeras dlsr.</string>
+    <string name="texto_rec5">Grande porte</string>
+    <string name="texto_rec6">Televisores (telas maiores que 32 polegadas), refrigeradores, freezers, máquinas de lavar, secar, forno de Micro-ondas, ar-condicionado, Home Theater, impressoras de grande formato.</string>
+    <string name="continuar">Continuar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_produtos">Produtos</string>
+    <string name="title_login">Login</string>
+    <string name="codigo">Código</string>
+    <string name="descricao">Descrição</string>
+    <string name="quantidade">Qtde</string>
+    <string name="valor_unitario">Valor Unit</string>
+    <string name="status">Situação</string>
+    <string name="ativo">Ativo</string>
+    <string name="disponivel">Disponível</string>
+    <string name="indisponivel">Indisponível</string>
+
+
+
+    <string name="endereco">Endereço:</string>
+    <string name="horario">Horário de funcionamento:</string>
+    <string name="grupo_aceito">Grupo(s) de resíduo(s) aceito(s):</string>
+
+
+    <string-array name="cidades_array">
+        <item>São Paulo</item>
+        <item>Osasco</item>
+        <item>Barueri</item>
+        <item>Carapicuíba</item>
+        <item>Itapevi</item>
+    </string-array>
+    <string name="title_activity_detalhes">DetalhesActivity</string>
+</resources>
